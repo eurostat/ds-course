@@ -6,8 +6,6 @@ requests
 scikit-learn
 seaborn
 jupyter_contrib_nbextensions
-ipywidgets
-requests
 eurostatapiclient
 jsonstat.py
 pandaSDMX
