@@ -7,7 +7,7 @@ scikit-learn
 seaborn
 jupyter_contrib_nbextensions
 eurostatapiclient
-jsonstat.py
+jsonstat.py==0.1.13
 pandaSDMX==0.8.2
 geojson==2.4.1
 folium==0.12.0
