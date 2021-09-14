@@ -3,6 +3,7 @@ jsonstat.py
 pandaSDMX
 dbnomics
 geojson
+folium
 geopandas
 eurostat
 plotly
