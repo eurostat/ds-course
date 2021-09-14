@@ -17,6 +17,5 @@ geojson
 folium
 geopandas
 eurostat
-plotly
 google.colab
 datetime
