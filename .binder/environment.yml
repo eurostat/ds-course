@@ -15,6 +15,4 @@ dependencies:
   - jupyter_contrib_nbextensions
   - ipywidgets
   - requests
-  - google.colab
-  #- pip:
-  #  - -r file:requirements.txt
+  
