@@ -14,3 +14,4 @@ descartes
 rtree
 jupyter_contrib_nbextensions
 google.colab
+datetime
