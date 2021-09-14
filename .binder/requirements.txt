@@ -15,3 +15,4 @@ geopandas==0.8.2
 eurostat==0.2.1
 google.colab
 datetime
+tornado==6.1.0
