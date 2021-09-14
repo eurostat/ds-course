@@ -4,10 +4,6 @@ pandaSDMX
 dbnomics
 geojson
 geopandas
-shapely
-pyproj
-geopy
-folium
 eurostat
 plotly
 descartes
@@ -15,3 +11,12 @@ rtree
 jupyter_contrib_nbextensions
 google.colab
 datetime
+ipython
+matplotlib
+numpy
+scipy
+pandas
+requests 
+scikit-learn
+seaborn
+ipywidgets
