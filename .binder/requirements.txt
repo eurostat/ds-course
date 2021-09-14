@@ -13,5 +13,5 @@ geojson>=2.4
 folium>=0.12
 geopandas>=0.8
 eurostat>=0.2
-google.colab==0.8.0
+google.colab>=0.8.0
 tornado>=6.1.0
