@@ -1,0 +1,18 @@
+channels:
+  - conda-forge
+  - defaults
+  - conda-forge/label/broken
+dependencies:
+  - ipython
+  - pip
+  - matplotlib
+  - numpy
+  - scipy
+  - pandas
+  - requests 
+  - scikit-learn
+  - seaborn
+  - jupyter_contrib_nbextensions
+  - ipywidgets
+  - pip:
+    - -r file:requirements.txt
