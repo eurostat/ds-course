@@ -8,7 +8,7 @@ seaborn
 jupyter_contrib_nbextensions
 eurostatapiclient
 jsonstat.py
-pandaSDMX
+pandaSDMX==0.8.2
 geojson==2.4.1
 folium==0.12.0
 geopandas==0.8.2
