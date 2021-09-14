@@ -1,5 +1,3 @@
-ipython
-pip
 matplotlib
 numpy
 scipy
