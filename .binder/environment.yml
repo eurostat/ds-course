@@ -14,5 +14,6 @@ dependencies:
   - seaborn
   - jupyter_contrib_nbextensions
   - ipywidgets
+  - requests
   #- pip:
   #  - -r file:requirements.txt
