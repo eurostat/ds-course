@@ -15,4 +15,18 @@ dependencies:
   - jupyter_contrib_nbextensions
   - ipywidgets
   - requests
+  - pip:
+    - eurostatapiclient
+    - jsonstat.py
+    - pandaSDMX
+    - dbnomics
+    - geojson
+    - folium
+    - geopandas
+    - eurostat
+    - plotly
+    - descartes
+    - rtree
+    - google.colab
+    - datetime
   
