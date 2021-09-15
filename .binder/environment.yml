@@ -18,3 +18,5 @@ dependencies:
   - folium
   - geopandas
   - selenium
+  - pip:
+    - eurostatapiclient
