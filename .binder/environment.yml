@@ -21,3 +21,4 @@ dependencies:
   - papermill
   - pip:
     - eurostatapiclient
+    - openpyxl
