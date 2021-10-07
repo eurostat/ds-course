@@ -20,6 +20,7 @@ dependencies:
   - selenium
   - papermill
   - xgboost
+  - plotly
   - pip:
     - eurostatapiclient
     - openpyxl
