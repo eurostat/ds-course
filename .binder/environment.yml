@@ -19,7 +19,7 @@ dependencies:
   - geopandas
   - selenium
   - papermill
-  - geopy
+  - xgboost
   - pip:
     - eurostatapiclient
     - openpyxl
