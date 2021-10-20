@@ -21,6 +21,7 @@ dependencies:
   - papermill
   - xgboost
   - plotly
+  - tensorflow
   - pip:
     - eurostatapiclient
     - openpyxl
