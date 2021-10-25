@@ -23,6 +23,7 @@ dependencies:
   - plotly
   - tensorflow
   - keras
+  - httplib2
   - pip:
     - eurostatapiclient
     - openpyxl
