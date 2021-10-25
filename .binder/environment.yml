@@ -24,6 +24,7 @@ dependencies:
   - tensorflow
   - keras
   - httplib2
+  - bs4
   - pip:
     - eurostatapiclient
     - openpyxl
