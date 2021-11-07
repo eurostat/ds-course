@@ -25,6 +25,7 @@ dependencies:
   - keras
   - httplib2
   - bs4
+  - pyspark
   - pip:
     - eurostatapiclient
     - openpyxl
