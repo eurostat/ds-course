@@ -2,3 +2,4 @@ firefox
 chromium-chromedriver
 openjdk-17-jre
 openjdk-17-jdk
+mongodb
